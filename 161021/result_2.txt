@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main(void)
+{
+    fuck fuck fuck
+        two step
+            three step
+}
+    
